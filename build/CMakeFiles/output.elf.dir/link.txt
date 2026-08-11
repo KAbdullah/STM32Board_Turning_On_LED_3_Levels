@@ -1,0 +1,1 @@
+/usr/bin/arm-none-eabi-gcc -nostdlib -T /home/abdullahkhatib/STM32Board_Turning_On_LED_3_Levels/linker.ld CMakeFiles/output.elf.dir/startup.c.obj CMakeFiles/output.elf.dir/src/main.c.obj -o output.elf 

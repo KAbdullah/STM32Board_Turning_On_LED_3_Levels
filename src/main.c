@@ -42,10 +42,10 @@ int main (void) {
   while (1) {
     GPIOA->GPIOx_BSRR |= (1 << 5);
 
-    delay_timer(1000000);
+    delay_timer(500000);
 
     GPIOA->GPIOx_BSRR |= (1 << 21);
 
-    delay_timer(1000000);
+    delay_timer(500000);
   }
 }

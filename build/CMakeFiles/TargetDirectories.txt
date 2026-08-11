@@ -1,0 +1,4 @@
+/home/abdullahkhatib/STM32Board_Turning_On_LED_3_Levels/build/CMakeFiles/output.elf.dir
+/home/abdullahkhatib/STM32Board_Turning_On_LED_3_Levels/build/CMakeFiles/flash.dir
+/home/abdullahkhatib/STM32Board_Turning_On_LED_3_Levels/build/CMakeFiles/edit_cache.dir
+/home/abdullahkhatib/STM32Board_Turning_On_LED_3_Levels/build/CMakeFiles/rebuild_cache.dir
